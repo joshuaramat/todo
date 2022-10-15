@@ -1,4 +1,6 @@
-# New Project
+# TypeScript ToDo app
+
+A fun little project where I can learn the basics of TypeScript and brush up on my JavaScript without worrying about styling!
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
